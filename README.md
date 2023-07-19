@@ -1,7 +1,8 @@
 # Programming in C++ #
 
 ### Graph BFS ###
-- This program takes IMDB data and allows the user to find what movies a given actor is in, find what actors were in a given movie, and show how 2 actors are connected to each other through movies they have been in by performing a BFS. 
+This program takes IMDB data and allows the user to find what movies a given actor is in, find what actors were in a given movie, and show how 2 actors are connected to each other through movies they have been in by performing a BFS. 
+---
 
 ### Minimax TicTacToe ### 
 In this program, the user plays against the computer in a TicTacToe game where the computer avoids losing to the user by implementing the Minimax algorithm. 
