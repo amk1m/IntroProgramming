@@ -1,4 +1,4 @@
-# Programming in C++
+# Programming in C++ #
 
 Graph BFS: This program takes IMDB data and allows the user to find what movies a given actor is in, find what actors were in a given movie, and show how 2 actors are connected to each other through movies they have been in by performing a BFS. 
 
